@@ -1,4 +1,4 @@
-[![MasterHead](https://tse2.explicit.bing.net/th?id=OIP.HbLJIdpQhJgmyG-F_T_OVAHaCr&pid=Api&P=0&h=180)](https://webdevswap.hashnode.dev/)
+[![MasterHead](https://www.canva.com/design/DAF5dCcDcyM/8wqS7GBLOz0AmFmMdPe9mA/view?utm_content=DAF5dCcDcyM&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://webdevswap.hashnode.dev/)
 <h1 align="center">Hi 👋, I'm Swapnil Dabhade</h1>
 <h3 align="center">A passionate Frontend developer from Pune , India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
