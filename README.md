@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnildabhade555" alt="swapnildabhade555" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack E-Commerce Website**
+- 🔭 I’m currently working on **MERN Stack E-Commerce Website Project**
 
-- 🌱 I’m currently learning **Redux and some advance React**
+- 🌱 I’m currently learning **Redux and some advanced React**
 
 - 👨‍💻 All of my projects are available at [github.com/swapnildabhade555](github.com/swapnildabhade555)
 
 - Check Out Website Developed By Me [https://swapnildabhadefitclub.pages.dev/](https://swapnildabhadefitclub.pages.dev/)
 
-- 💬 Ask me about **Frontend Development and React**
+- 💬 Ask me about **Frontend Development and React and 9/10 times you'll get correct answers**
 
 - 📫 How to reach me **swapnildabhade555@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WPW9pnuHpTdCatwWebIVB3jy457RMfIwR4aY6RAvl6s/edit](https://docs.google.com/document/d/1WPW9pnuHpTdCatwWebIVB3jy457RMfIwR4aY6RAvl6s/edit)
+- 📄 Know more about me and my experiences [https://docs.google.com/document/d/1WPW9pnuHpTdCatwWebIVB3jy457RMfIwR4aY6RAvl6s/edit](https://docs.google.com/document/d/1WPW9pnuHpTdCatwWebIVB3jy457RMfIwR4aY6RAvl6s/edit)
 
 - ⚡ Fun fact **It's fun until an error catches you!**
 
