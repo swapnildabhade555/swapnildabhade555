@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MERN Stack E-Commerce Website Project**
 
-- 🌱 I’m currently learning **Redux and some advanced React**
+- 🌱 I’m currently learning **Next Js and TypeScript**
 
 - 👨‍💻 All of my projects are available at [github.com/swapnildabhade555](github.com/swapnildabhade555)
 
